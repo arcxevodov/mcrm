@@ -1,2 +1,2 @@
 <?php
-echo "Initial commit";
+echo "Ok";
