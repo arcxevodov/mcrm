@@ -1,2 +1,6 @@
 <?php
-echo "Ok";
+
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+require_once 'app/models/Database.php';
